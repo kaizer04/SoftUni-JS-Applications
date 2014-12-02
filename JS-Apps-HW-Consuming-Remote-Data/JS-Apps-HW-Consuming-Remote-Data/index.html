@@ -1,0 +1,34 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Book Services</title>
+    <style type="text/css">
+        #all-books > div {
+            border: 1px solid #999;
+            border-radius: 5px;
+            padding: 10px;
+            margin: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div id="wrapper">
+        <div id="books">
+            <h1>All Books</h1>
+            <div id="all-books"></div>
+            <div>
+                <h3>Add Book</h3>
+                <input id="title" type="text" placeholder="Title" />
+                <input id="author" type="text" placeholder="Author" />
+                <input id="isbn" type="text" placeholder="ISBN" />
+                <button id="add-book">Add book</button>
+            </div>
+        </div>
+    </div>
+    <script src="libs/jquery-2.1.1.js"></script>
+    <script type="text/javascript" src="scripts/ajax-requester.js"></script>
+    <script type="text/javascript" src="scripts/data-persister.js"></script>
+    <script type="text/javascript" src="scripts/controller.js"></script>
+    <script type="text/javascript" src="scripts/main.js"></script>
+</body>
+</html>

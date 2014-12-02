@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JS-Apps-HW-Consuming-Remote-Data", "JS-Apps-HW-Consuming-Remote-Data\JS-Apps-HW-Consuming-Remote-Data.csproj", "{EE073BAA-1DCA-450D-96EC-47AC0F94037A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE073BAA-1DCA-450D-96EC-47AC0F94037A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE073BAA-1DCA-450D-96EC-47AC0F94037A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE073BAA-1DCA-450D-96EC-47AC0F94037A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE073BAA-1DCA-450D-96EC-47AC0F94037A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
